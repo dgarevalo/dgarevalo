@@ -2,7 +2,7 @@
 - 💻 I'm **David García**, a passionate enthusiast of **Artificial Intelligence** and **Computer Science**. 
 - 💡 I enjoy designing and developing AI systems using Machine Learning and Generative AI.
 - 🎓 Currently in my final year of **Computer Science** Student at UPC.  
-- 🌱 Always trying to learn new things and improve.
+- 🌱 Always trying to learn new things and enhance my skills.
 
 ### 📫 Let's connect
 - [LinkedIn](https://linkedin.com/in/dgarevalo)
