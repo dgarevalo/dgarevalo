@@ -7,6 +7,3 @@
 ### 📫 Let's connect
 - [LinkedIn](https://linkedin.com/in/dgarevalo)
 - [Email](mailto:david.garciaarevalo@icloud.com)
-  
-Keep pushing! 🚀
-
